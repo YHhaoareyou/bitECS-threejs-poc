@@ -25,6 +25,7 @@ export const createWorld = (): World => {
   })
 
   world.objects = new Map()
+  world.avatars = new Map()
 
   world.time = { last: 0, delta: 0, elapsed: 0 }
 
