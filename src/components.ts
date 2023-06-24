@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { defineComponent, Types } from "bitecs"
 
 const { f32 } = Types

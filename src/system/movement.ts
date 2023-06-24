@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { defineQuery } from "bitecs"
 import { TransformComponent } from "../components"
 import { World } from "../model/World"

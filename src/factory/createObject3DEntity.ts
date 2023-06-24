@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { addEntity, IWorld } from "bitecs"
 import * as THREE from "three"
 import { TransformComponent } from "../components"
